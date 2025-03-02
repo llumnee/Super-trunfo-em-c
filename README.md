@@ -1,1 +1,1 @@
-# Curso-de-programa-o-de-jogos
+# Curso-de-desenvolvimento-de-jogos-digitais
