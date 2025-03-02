@@ -46,7 +46,6 @@ int main() {
     scanf("%d", &pontos2);
     
 
-
        printf("O nome do primeiro país é: %s\n", nome1);
        printf("A quantidade de habitantes é: %d\n", populacao1);
        printf("A área é: %e\n", area1);
