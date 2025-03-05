@@ -75,11 +75,11 @@ int main() {
     //exibição de resultados
     printf("Comparação de Cartas:\n");
     printf("Área: %d\n", comparacao1);
-    printf("População %d\n", comparacao2);
-    printf("PIB %d\n", comparacao3);
-    printf("Densidade %d\n", comparacao4);
-    printf("Pontos turísticos %d\n", comparacao5);
-    printf("Super Poder %d\n", comparacao6);
+    printf("População: %d\n", comparacao2);
+    printf("PIB: %d\n", comparacao3);
+    printf("Densidade: %d\n", comparacao4);
+    printf("Pontos turísticos: %d\n", comparacao5);
+    printf("Super Poder: %d\n", comparacao6);
         
 return 0;
     
