@@ -17,7 +17,7 @@ git clone [https://github.com/usuario/repositorio.git](https://github.com/llumne
 cd Super-trunfo-em-c
 
 # Compile o código (para C)
-gcc -o meu_programa main.c
+gcc super_trunfo.c
 
 # Rode o programa
-./meu_programa
+./super_trunfo.c
