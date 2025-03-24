@@ -14,7 +14,7 @@ O jogo Super Trunfo é um jogo de cartas em que os jogadores comparam atributos 
 git clone [https://github.com/usuario/repositorio.git](https://github.com/llumnee/Super-trunfo-em-c/blob/main/super_trunfo.c)
 
 # Entre no diretório
-cd repositorio
+cd Super-trunfo-em-c
 
 # Compile o código (para C)
 gcc -o meu_programa main.c
